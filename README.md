@@ -56,10 +56,12 @@ FactureClaire permet de :
 
 ## 🛠️ Stack technique
 
-- **Frontend** : React + Vite + TypeScript
+- **Framework** : Next.js
+- **Frontend & UI** : React + shadcn/ui
 - **Styling** : Tailwind CSS
 - **Backend / BDD / Auth** : Supabase
 - **Formulaires & validation** : React Hook Form + Zod
+- **Feedback UI** : Sonner
 - **Déploiement** : Vercel
 
 ---
